@@ -48,6 +48,10 @@ The app is ideal for:
 - Improve long-term wellness with measurable results
 - Enjoy a simple, intuitive, and data-driven experience
 
+## 📸 Screenshots
+
+<img width="613" height="263" alt="image" src="https://github.com/user-attachments/assets/2f9fd937-5b87-4105-91b2-c4dba1730bb2" />
+
 ---
 
 > **"Turn your health data into meaningful progress with AI-powered wellness insights." 🧬✨
